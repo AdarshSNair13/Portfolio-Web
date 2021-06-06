@@ -712,3 +712,16 @@ footer p {
 footer p span {
   color:  #8407fa;
 }
+/* preloader */
+
+
+#preloader{
+    background: #000 url(image/preloader.gif) no-repeat center;
+    background-size: 15%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
+
